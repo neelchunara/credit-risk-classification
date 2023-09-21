@@ -1,6 +1,7 @@
 # Credit Risk Analysis Report
 
 **Background**
+
 In this task, you will employ a range of methods to train and assess a model focused on assessing loan risk. Your objective is to utilize a dataset containing past lending transactions from a peer-to-peer lending platform to construct a model capable of determining the creditworthiness of potential borrowers.
 
 
