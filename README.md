@@ -10,11 +10,11 @@ In this task, you will employ a range of methods to train and assess a model foc
 
 
 **2. The results:**
-- Balanced Accuracy Score: 95.20% --> This indicates that, considering both the model's sensitivity (recall) for actual positive cases and its specificity for actual negative cases, the model achieved an overall balanced prediction accuracy of 95.2%.
+- Balanced Accuracy Score: This indicates that, considering both the model's sensitivity (recall) for actual positive cases and its specificity for actual negative cases, the model achieved an overall balanced prediction accuracy of 95.2%.
 
-- Precision Score: 92% --> This signifies that 92% of the positive predictions made by the model were accurate.
+- Precision Score: This signifies that 92% of the positive predictions made by the model were accurate.
 
-- Recall Score: 95% --> This demonstrates that the model accurately captured 95% of the actual positive values among all the optimistic predictions it generated.
+- Recall Score: This demonstrates that the model accurately captured 95% of the actual positive values among all the optimistic predictions it generated.
 
 
 **3. A Summary:**
